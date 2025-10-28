@@ -1,9 +1,9 @@
 const settings = {
   packname: 'Knight Bot',
-  author: '‎',
+  author: '‎Master Plannah debug',
   botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
+  botOwner: 'Master Plannah debug', // Your name
+  ownerNumber: '254708526612', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
